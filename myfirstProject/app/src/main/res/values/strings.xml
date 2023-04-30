@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">myfirstProject</string>
+    <string name="takePicture">사진 찍기</string>
+    <string name="findByDrive">드라이브에서 불러오기</string>
+</resources>
